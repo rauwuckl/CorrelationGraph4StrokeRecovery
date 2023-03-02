@@ -1,0 +1,12 @@
+numpy
+pandas
+jupyterlab
+pytest
+matplotlib
+scipy
+scikit_posthocs
+statsmodels
+seaborn
+plotly
+networkx
+openpyxl

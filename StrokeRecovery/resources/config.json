@@ -1,0 +1,178 @@
+{
+    "demographics": [
+        "uID_eth",
+        "remove_eth",
+        "Geburtstagsdatum_SN",
+        "Geschlecht_SN",
+        "DatumErkrankung_SN",
+        "DatumErkrankung_SN2",
+        "Haendigkeit_SN",
+        "Diagnose_SN",
+        "Diagnosekategorie_SN (wird in der Datenbank manuell ergaenzt)",
+        "Lokalisation_SN",
+        "NIHHSnachLyseThrombek_SN",
+        "MRSpraemorbide_SN",
+        "EintrittDatum_SN",
+        "AustrittDatum_SN"
+    ],
+    "categories": {
+        "InterpersInteraction": [
+            "LIMOS1_InterpersAktivitaet"
+        ],
+        "Mobility": [
+            "LIMOS2_KPverbleiben",
+            "LIMOS3_KPwechseln",
+            "LIMOS4_Transfers",
+            "LIMOS5_Gegenstaendeanheben",
+            "LIMOS6_Feinmotorik",
+            "LIMOS7_HandArmgebrauch",
+            "LIMOS8_Gehenkurz",
+            "LIMOS9_Gehenlang",
+            "LIMOS10_Treppe",
+            "LIMOS11_andereFortbewegung",
+            "LIMOS12_Rsfahren"
+        ],
+        "Selfcare": [
+            "LIMOS13_Waschen",
+            "LIMOS14_Pflegen",
+            "LIMOS15_Toilette",
+            "LIMOS16_Kleiden",
+            "LIMOS17_Essen",
+            "LIMOS18_Trinken",
+            "LIMOS19_Gesundheit",
+            "LIMOS20_Nachtbewaeltigen"
+        ],
+        "Communication": [
+            "LIMOS21_KommAllgemein",
+            "LIMOS22_Verstehen",
+            "LIMOS23_Lesen",
+            "LIMOS24_Sprechen",
+            "LIMOS25_Schreiben"
+        ],
+        "LearningKnowledge": [
+            "LIMOS26_ElemFertigkeiten",
+            "LIMOS27_KomplFertigkeiten",
+            "LIMOS28_Aufmerksamkeit",
+            "LIMOS29_Denken",
+            "LIMOS30_EinfProblemeloesen",
+            "LIMOS31_KomplProblemeloesen",
+            "LIMOS32_Faktenerinnern",
+            "LIMOS33_Orientierung",
+            "LIMOS34_visraeumlWahrnehmung",
+            "LIMOS35_Rechnen",
+            "LIMOS36_EinfEntscheide",
+            "LIMOS37_KomplEntscheide"
+        ],
+        "Generaltasks": [
+            "LIMOS38_EinfEinzelaufgabe",
+            "LIMOS39_KomplEinzelaufgabe",
+            "LIMOS40_TaeglicheRoutine"
+        ],
+        "DomesticLife": [
+            "LIMOS41_Einkaufen",
+            "LIMOS42_EinfMahlzeit",
+            "LIMOS43_KomplMahlzeit",
+            "LIMOS44_Hausarbeit",
+            "LIMOS45_Anderenhelfen"
+        ]
+    },
+    "timepoints": [
+        "ESN",
+        "2Wo",
+        "3Wo",
+        "4Wo",
+        "5Wo",
+        "6Wo",
+        "ASN"
+    ],
+    "items": [
+        "LIMOS1_InterpersAktivitaet",
+        "LIMOS2_KPverbleiben",
+        "LIMOS3_KPwechseln",
+        "LIMOS4_Transfers",
+        "LIMOS5_Gegenstaendeanheben",
+        "LIMOS6_Feinmotorik",
+        "LIMOS7_HandArmgebrauch",
+        "LIMOS8_Gehenkurz",
+        "LIMOS9_Gehenlang",
+        "LIMOS10_Treppe",
+        "LIMOS11_andereFortbewegung",
+        "LIMOS12_Rsfahren",
+        "LIMOS13_Waschen",
+        "LIMOS14_Pflegen",
+        "LIMOS15_Toilette",
+        "LIMOS16_Kleiden",
+        "LIMOS17_Essen",
+        "LIMOS18_Trinken",
+        "LIMOS19_Gesundheit",
+        "LIMOS20_Nachtbewaeltigen",
+        "LIMOS21_KommAllgemein",
+        "LIMOS22_Verstehen",
+        "LIMOS23_Lesen",
+        "LIMOS24_Sprechen",
+        "LIMOS25_Schreiben",
+        "LIMOS26_ElemFertigkeiten",
+        "LIMOS27_KomplFertigkeiten",
+        "LIMOS28_Aufmerksamkeit",
+        "LIMOS29_Denken",
+        "LIMOS30_EinfProblemeloesen",
+        "LIMOS31_KomplProblemeloesen",
+        "LIMOS32_Faktenerinnern",
+        "LIMOS33_Orientierung",
+        "LIMOS34_visraeumlWahrnehmung",
+        "LIMOS35_Rechnen",
+        "LIMOS36_EinfEntscheide",
+        "LIMOS37_KomplEntscheide",
+        "LIMOS38_EinfEinzelaufgabe",
+        "LIMOS39_KomplEinzelaufgabe",
+        "LIMOS40_TaeglicheRoutine",
+        "LIMOS41_Einkaufen",
+        "LIMOS42_EinfMahlzeit",
+        "LIMOS43_KomplMahlzeit",
+        "LIMOS44_Hausarbeit",
+        "LIMOS45_Anderenhelfen"
+    ],
+    "category_colors":
+        {"LearningKnowledge":"#e69f00",
+        "Generaltasks": "#56b4e9",
+        "Communication": "#009e73",
+        "Mobility": "#f0e442",
+        "Selfcare": "#94b4c5",
+        "DomesticLife": "#d55e00",
+        "InterpersInteraction": "#cc79a7"},
+    "proper_category_names": {
+        "Learning and\\1\\applying knowledge": ["LearningKnowledge"],
+        "General tasks\\1\\and demands": ["Generaltasks"],
+        "Communication": ["Communication"],
+        "Mobility": ["Mobility"],
+        "Self-care": ["Selfcare"],
+        "Domestic life": ["DomesticLife"],
+        "Interpersonal\\2\\interactions\\1\\and relationships": ["InterpersInteraction"]
+    },
+    "category_synonyms":
+        {"LearningKnowledge":"L&AK",
+        "Generaltasks": "GT&D",
+        "Communication": "C",
+        "Mobility": "M",
+        "Selfcare": "SC",
+        "DomesticLife": "DL",
+        "InterpersInteraction": "II&R"},
+    "proper_loc_names": {
+        "supratentorial right" : ["Right"],
+        "supratentorial left": ["Left"],
+        "infratentorial": ["BS"]
+    },
+    "proper_diag_names": {
+        "VBC": ["BS"],
+        "ACA": ["ACA"],
+        "PCA": ["PCA"],
+        "MCA" : ["MCA"]
+    },
+    "plot_params":{
+        "paper_width": 6.3,
+        "dpi": 500,
+        "font": "Times New Roman",
+        "font_size": 8,
+        "box_plot_linewidth": 1
+    }
+}
