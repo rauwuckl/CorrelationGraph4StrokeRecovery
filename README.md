@@ -1,7 +1,9 @@
+!(/figs/graph.png)
+
 # Installation
 
 ```
- conda create -n stroke python=3.9
+ conda create -n stroke python=3.10
  conda activate stroke
  pip install -e .
  ```
