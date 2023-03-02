@@ -1,4 +1,4 @@
-!(/figs/graph.png)
+![Example Graph](/figs/graph.png)
 
 # Installation
 
