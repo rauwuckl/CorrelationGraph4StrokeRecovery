@@ -1,4 +1,4 @@
-![Example Graph](/figs/timeseries_graph.pdf)
+![Example Graph](/figs/Graph2.png)
 
 # Installation
 
